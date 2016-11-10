@@ -1,5 +1,5 @@
-# Project Title
 [![Build Status](https://travis-ci.org/tumblenet/tumblenet-theme.svg?branch=master)](https://travis-ci.org/tumblenet/tumblenet-theme)
+# Project Title
 TODO: Write a project description
 
 ## Supported Browsers:
