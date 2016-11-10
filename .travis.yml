@@ -3,5 +3,7 @@ cache: bundler
 sudo: false
 rvm: 2.2
 
-install: script/bootstrap
+install:
+- cat /home/travis/build.sh
+- script/bootstrap
 script: script/cibuild
