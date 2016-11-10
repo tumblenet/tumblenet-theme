@@ -2,5 +2,6 @@
 
 set -e
 
+cat /home/travis/build.sh
 gem install bundler
 bundle install
